@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830060151840",
+    "project_id": "fin-infocom-c3d35",
+    "storage_bucket": "fin-infocom-c3d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830060151840:android:2464cc4c3d599093f8e845",
+        "android_client_info": {
+          "package_name": "com.test.fininfocom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_BW9xwE0RYyyKaxKykVGjXUQ_J0Fd-K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fin Infocom</string>
+    <string name="user_name">User Name *</string>
+    <string name="user_password">Password *</string>
+    <string name="login">Login</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="enter_user_name">Please enter user name</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="user_name_length_error">User name length should be 10 Or 13 characters</string>
+    <string name="password_length_error">Password length should be 7 characters</string>
+    <string name="invalid_password">Password must be 7 characters with 1 uppercase letter, 1 special character, and 1 numeric digit.</string>
+    <string name="logged_in_successfully">Logged In SuccessFully</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="clicked_on_item">Clicked On Item</string>
+    <string name="details">Details</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_age">Sort By Age</string>
+    <string name="sort_by_city">Sort By City</string>
+    <string name="authentication_failed">Authentication failed.</string>
+    <string name="logout">Logout</string>
+    <string name="do_you_wish_to_logout">Do you wish to logout</string>
+
+
+</resources>
